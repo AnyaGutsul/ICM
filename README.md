@@ -13,3 +13,4 @@ in the college's information systems.
 - IDE: Eclipse Java
 - Client: Gluon JavaFX Scene Builder
 - Server: MySql
+- Tests: JUnit 5
